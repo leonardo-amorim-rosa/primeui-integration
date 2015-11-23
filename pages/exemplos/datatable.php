@@ -1,5 +1,7 @@
 <?php require_once "../layout/master-page-header.php" ?>
     
+    <br />
+
     <div id="messages"></div>
 
     <div id="tbllocal"></div>
